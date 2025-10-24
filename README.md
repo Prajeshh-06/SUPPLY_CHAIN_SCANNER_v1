@@ -20,3 +20,5 @@ Make the script executable: chmod +x scan.sh
 Run, passing the project directory root:
 ./scan.sh /path/to/your/project
 
+IMAGES:
+<img width="1840" height="457" alt="image" src="https://github.com/user-attachments/assets/409a6b55-b84c-401b-94b9-554f23d099b4" />
